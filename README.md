@@ -51,7 +51,7 @@ docker image build . -f packages/backend/Dockerfile --tag backstage --no-cache
 
 ![atividadecertam10](https://github.com/MrSchipRozen/-AtividadesM10/assets/99350292/806b2925-40f8-4e46-b7e3-03ae5373d931)
 
-5 - Backstage, para acessar basta por no navrgador http://localhost:8009 e tera acesso ao backstage
+5 - Backstage, para acessar basta por no navrgador http://localhost:7007 e tera acesso ao backstage
 
 Prints em execução
 
